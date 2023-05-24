@@ -1,0 +1,10 @@
+Registro de Usuario (register.html ):
+■ Botón de enviar que nos lleve a la página principal
+■ Botón de borrar todos los datos del formulario
+
+
+Login de Usuario (login.html ):
+
+● Nombre de usuari@
+● Contraseña
+● Botón de enviar que nos lleve a la página principal
